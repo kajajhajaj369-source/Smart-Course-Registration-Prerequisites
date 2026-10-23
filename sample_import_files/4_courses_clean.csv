@@ -1,0 +1,6 @@
+course_code,course_name,credits,department_id,description
+CS601,Advanced Distributed Systems,4,CSE,Distributed computing principles and consensus protocols
+EC405,VLSI Circuit Design,4,ECE,CMOS layout and digital integrated circuit design
+ME302,Thermodynamics II,3,MECH,Advanced thermodynamic cycles and combustion analysis
+EE504,Smart Grid Technologies,3,EE,Renewable energy grid integration and power distribution
+CE401,Structural Dynamics,4,CIVIL,Earthquake engineering and structural vibration analysis

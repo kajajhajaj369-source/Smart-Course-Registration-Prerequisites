@@ -1,0 +1,11 @@
+name,email,department_id,current_semester,max_credits_per_semester
+Aarav Sharma,aarav.sharma@example.edu,CSE,3,18
+Diya Patel,diya.patel@example.edu,ECE,5,20
+Rohan Gupta,rohan.gupta@example.edu,MECH,2,18
+Ananya Reddy,ananya.reddy@example.edu,CIVIL,4,18
+Vikram Malhotra,vikram.malhotra@example.edu,EE,6,22
+Sneha Kulkarni,sneha.kulkarni@example.edu,CSE,1,18
+Kavya Iyer,kavya.iyer@example.edu,ECE,3,18
+Aditya Verma,aditya.verma@example.edu,MECH,5,20
+Meera Nair,meera.nair@example.edu,CSE,4,18
+Siddharth Joshi,siddharth.joshi@example.edu,EE,2,18
